@@ -5,4 +5,4 @@ Projects:
 
 TBD: Still updating
 
-[Resume](
+[Resume](https://github.com/Zach-beck/Zacharias-Beck/blob/main/Zacharias_Beck_Resume.pdf)
