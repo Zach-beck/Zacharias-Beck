@@ -12,3 +12,5 @@ My Information:
 [Resume](https://github.com/Zach-beck/Zacharias-Beck/blob/main/Zacharias_Beck_Resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/zacharias-beck)
+
+[Email](zaach.beck@gmail.com)
